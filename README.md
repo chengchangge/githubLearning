@@ -1,4 +1,3 @@
 # githubLearning
-WOW
-Fun for learning
-This is the branch named test2
+Just for learning
+This is the branch named test1
